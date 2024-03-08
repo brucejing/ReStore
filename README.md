@@ -13,3 +13,7 @@ For the React part, cd into ReStore/client and run `npm run dev`, it will start 
 ---
 
 From Neil Cummings's Udemy course
+
+---
+
+Starts the backend and visit http://localhost:5002
